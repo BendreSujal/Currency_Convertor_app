@@ -1,2 +1,2 @@
-# Currency-_Convertor_app
+# Currency_Convertor_app
 Flutter app which converts INR into USD
